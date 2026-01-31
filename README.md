@@ -7,3 +7,7 @@ Ich habe keine Ahnung wie ich mir die ganzen HTML head bodys styles usw merken k
 Bei mir gibt es insgesamt 
 <img width="1226" height="38" alt="image" src="https://github.com/user-attachments/assets/b6d650d2-348f-4ada-90a8-86d3c32cf01e" />
 Jedoch werde ich paar Löschen 
+
+
+
+<h1> ICH WERDE ERSTMAL DIE SEITE OFFLINE NEHMEN</h1>
