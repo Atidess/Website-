@@ -10,9 +10,8 @@ Jedoch werde ich paar Löschen
 
 
 
-<h1> ICH WERDE ERSTMAL DIE SEITE OFFLINE NEHMEN</h1>
 
-meine Seite hat viel zu viel meines Internetes genommen 
+<h1> Seite ist wieder Online</h1>
 
 Die Lust zu spielen oder anderes Schwindet alles wird langsam einfach Scheiße 
 
