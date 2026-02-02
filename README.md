@@ -1,4 +1,4 @@
-<h1> Hallo </h1>
+<h1> Hallo Leute </h1>
 
 Ich habe einen Server gebaut er ist auf meinem Laptop der als Server fungiert 
 
@@ -15,3 +15,10 @@ Jedoch werde ich paar Löschen
 meine Seite hat viel zu viel meines Internetes genommen 
 
 Die Lust zu spielen oder anderes Schwindet alles wird langsam einfach Scheiße 
+
+Ich bin daran interessiert Etwas Großes zu bauen aber ich weiß nicht was Ich meine Was bräuchte ich um ein MC Server zu bauen? oder wie Hacke ich Menschen? 
+
+<h2> Es ist alles Nicht Schön </h2>
+oder das Gelbe vom EI ich bin zu sehr Abhängig von ChatGPT und vermutlich von anderen Menschen aber wie Schaffe ich Absolute Freiheit? Wie werde ich meine Gedanken los? Das sind alles Fragen die ich mir Stelle aber Gut das hat alles nichts mit einer Website zutun.
+
+Wie werde ich besser in Spielen? Wie werde ich besser im Leben? Wie verdiene ich Online Geld? Wie Lebe ich? Was ist das Leben? Ich überlege die Alten Handys die ich besitze zu benutzen um zu Schauen was man mit den Alles Machen kann aber das alles Später ich meine wie hacke ich ein Handy von weitem? 
