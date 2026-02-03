@@ -20,4 +20,4 @@ Ich bin daran interessiert Etwas Großes zu bauen aber ich weiß nicht was Ich m
 <h2> Es ist alles Nicht Schön </h2>
 oder das Gelbe vom EI ich bin zu sehr Abhängig von ChatGPT und vermutlich von anderen Menschen aber wie Schaffe ich Absolute Freiheit? Wie werde ich meine Gedanken los? Das sind alles Fragen die ich mir Stelle aber Gut das hat alles nichts mit einer Website zutun.
 
-<b> Alsoooo <b/> meine Überlegung ist die Seite zu Umfunktionieren
+<strong> Alsoooo </strong> meine Überlegung ist die Seite zu Umfunktionieren
